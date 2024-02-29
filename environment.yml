@@ -1,0 +1,9 @@
+name: eosc-454-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytest
+  - numpy
+  - scipy
+  - matplotlib
