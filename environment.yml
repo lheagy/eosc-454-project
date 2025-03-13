@@ -1,0 +1,12 @@
+name: my-454-project
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - jupyter
+  - numpy
+  - scipy
+  - simpeg
+  - matplotlib
+  - python=3.11
+
